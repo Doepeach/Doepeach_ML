@@ -1,2 +1,2 @@
 # Doepeach_ML&DL
-Machine Learning Project by Doepeach
+Machine Learning and Deep Learning Project by Doepeach
